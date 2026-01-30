@@ -47,6 +47,6 @@ I am a second-year Electronics and Computer Engineering student passionate about
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="[https://linkedin.com/in/subhankundu](https://www.linkedin.com/in/subhan-kundu-295a90332/)" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Subhan Kundu" height="30" /></a>
+<a href="https://www.linkedin.com/in/subhan-kundu-295a90332/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Subhan Kundu" height="30" /></a>
 <a href="mailto:kundusubhan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
 </p>

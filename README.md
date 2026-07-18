@@ -1,6 +1,6 @@
 # Hi there, I'm Subhan Kundu! 👋
 
-### B.Tech ECE Student @ Manipal Institute of Technology | 9.1 CGPA 🎓
+### B.Tech ECE Student @ Manipal Institute of Technology | 8.7 CGPA 🎓
 **Researcher-Developer focused on Embedded Intelligence, Computer Vision, and Machine Learning.**
 
 ---
